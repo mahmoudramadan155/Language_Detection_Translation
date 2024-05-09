@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+unstructured
+flask
+transformers
+torch
+sentencepiece
+sacremoses
+altair==4.0
